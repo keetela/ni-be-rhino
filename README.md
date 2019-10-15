@@ -2,7 +2,15 @@
 
 ## INSTRUCTIONS
 
-- create and update .env file in the root directory ---> refer to .env-sample
+### create and update .env file in the root directory ---> refer to .env-sample
+
+## 1. install dependencies
+
+```
+npm run install
+
+
+```
 
 ## 1. run db migrations
 
